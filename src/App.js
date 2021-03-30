@@ -7,13 +7,16 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
+          <h1 className="text-left">Dictionary</h1>
         </header>
         <main>
           <Dictionary />
         </main>
         <footer className="App-footer text-center">
-          <small>This application is built with Bootstrap and React framework by Linn Forsman.</small>
+          <small>
+            This application is built with Bootstrap and React framework by Linn
+            Forsman.
+          </small>
         </footer>
       </div>
     </div>
