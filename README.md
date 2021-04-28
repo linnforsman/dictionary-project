@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc9bb24b-eb31-4230-88ba-556820d0ee1d/deploy-status)](https://app.netlify.com/sites/react-weather-app-lf/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
